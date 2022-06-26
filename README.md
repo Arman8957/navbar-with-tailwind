@@ -1,1 +1,1 @@
-# navbar-with-tailwind-and-next.js
+# navbar-with-tailwind
